@@ -3,7 +3,7 @@
 A simple mini project built using HTML and CSS.
 
 ## 📌 About
-I peacticed building a basic webpage using HTML & CSS
+I practiced building a basic webpage using HTML & CSS.
 
 ## 🛠️ Technologies Used
 - HTML
