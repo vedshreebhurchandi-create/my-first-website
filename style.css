@@ -1,0 +1,29 @@
+body{
+    height:300px;
+    background-color:white;
+    font-family:Arial;
+    justify-content:center;
+    display:flex;
+    align-items:center;
+}
+.card{
+    background-color:rgb(245, 234, 234);
+    padding:20px;
+    text-align:center;
+    width:500px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px grey;
+}
+h1{
+    color:black;
+}
+p{
+    color:black;
+}
+button{
+    color:lightblue;
+    padding: 10px 20px;
+    background-color:steelblue;
+    border-radius:5px;
+    cursor: pointer;
+}
